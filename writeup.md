@@ -15,7 +15,7 @@ The goals of this project are to:
 * Summarize the results with a written report (this file)
 
 [//]: # (Image References)
-[image1]: ./examples/histogram.jpg "Histogram of Classes in Train, Validation, and Test Data Sets"
+[image1]: ./histogram.jpg "Histogram of Classes in Train, Validation, and Test Data Sets"
 [image2]: ./test_images/test_image_1.jpg "New Traffic Sign 1"
 [image3]: ./test_images/test_image_2.jpg "New Traffic Sign 2"
 [image4]: ./test_images/test_image_3.jpg "New Traffic Sign 3"
