@@ -46,7 +46,7 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a histogram showing the number of labels in the train, validation, and test data sets. 
 
-![alt text][Histogram of Classes]
+![alt text][image1]
 
 ### Design and Test a Model Architecture
 
