@@ -13,6 +13,7 @@ The goals of this project are to:
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report (this file)
+
 [//]: # (Image References)
 [image1]: ./examples/histogram.jpg "Histogram of Classes in Train, Validation, and Test Data Sets"
 [image2]: ./test_images/test_image_1.jpg "New Traffic Sign 1"
