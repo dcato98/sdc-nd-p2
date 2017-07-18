@@ -1,0 +1,2 @@
+model_checkpoint_path: "local_contrast_normalization_w_dropout_0.40"
+all_model_checkpoint_paths: "local_contrast_normalization_w_dropout_0.40"
